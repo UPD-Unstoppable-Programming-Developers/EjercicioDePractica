@@ -5,6 +5,8 @@ public static void main(String[] args){
     sumar(45,50);}                      //argumentos, cuando le damos un valor a ese parametro  
 static int sumar(int a, int b){             //Parametros, cuando declaramos la variable
     return a+b;}
+static int restar(int a, int b){             //Parametros, cuando declaramos la variable
+        return a-b;}
 
 public class main{
     public static void main(String[] args){
