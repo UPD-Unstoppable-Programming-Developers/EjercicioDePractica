@@ -28,4 +28,5 @@ static int sumar(int... numeros){
 }
 
 }//cierre de clase
+//Hola y adios!!
 
