@@ -14,9 +14,9 @@ public class main{
         main elObjeto=new main();elObjeto.saludar();    //Utilizo el mÃ©todo
         }
     static void saludar(){                              //funcion
-        System.println("Hola Mundo");}
+        System.println("Hola Mundo, ¿como estan?..");}
     public void saludar(){                              //Metodo
-        System.println("Hola Mundo");}
+        System.println("Hola Mundo, ¿Como van?");}
     }
 
 static int sumar(int... numeros){
